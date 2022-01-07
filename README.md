@@ -1,4 +1,7 @@
 # Pig-Game-Using-Java-Script
+<a href="https://afarinreshpardaz.netlify.app/">
+  demo 
+</a>  
 i just create a game 
 which called pig game 
 actually its a game with a dice
