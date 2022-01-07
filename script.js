@@ -88,6 +88,8 @@ document.querySelector('.btn--new').addEventListener('click' , function(){
     let playing = true ; 
     currentscore0.textContent = 0 ; 
     currentscore1.textContent = 0 ; 
+    document.querySelector(`.player--${activeplayer}`).classList.remove('player--winner') ;
+    switchplayer() ; 
 })
 ///////////
 document.querySelector('.close0').addEventListener('click' , function(){
