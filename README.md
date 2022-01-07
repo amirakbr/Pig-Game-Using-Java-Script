@@ -1,5 +1,5 @@
 # Pig-Game-Using-Java-Script </br>
-<a href="https://afarinreshpardaz.netlify.app/" style="background-color:orange ; color : white ; padding : 5px ">
+<a href="https://afarineshpardaz.netlify.app/" style="background-color:orange ; color : white ; padding : 5px ">
   demo 
 </a>  </br>
 i just create a game 
